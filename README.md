@@ -9,9 +9,11 @@ Embedded Engineering (Firmware & Software) from Vietnam.
 
 **Programing Languages:** C/C++, Python
 
-**Database:** MySQL, Firebase
+**Database:** MySQL
 
-**Protocol:** HTTP, MQTT, WebSocket
+**Embedded Protocol:** UART, I2C, SPI
+
+**Network Protocol:** HTTP, MQTT, WebSocket
 
 **MCU:** Arduino, ESP, STM, Raspberry Pi
 
