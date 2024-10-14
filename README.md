@@ -15,7 +15,7 @@ Embedded Engineering (Firmware & Software) from Vietnam.
 
 **MCU:** Arduino, ESP, STM, Raspberry Pi
 
-**Application:** HTML, CSS, Tailwind, .NET
+**Application:** NodeJs, .NET
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=chivon191&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chivon191&theme=radical&hide_border=true)<br/>
