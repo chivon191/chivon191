@@ -7,7 +7,7 @@ Embedded Engineering (Firmware & Software) from Vietnam.
 
 # 💻Tech Stack
 
-**Programing Languages:** C/C++, Python
+**Programming Languages:** C/C++, Python
 
 **Database:** MySQL
 
