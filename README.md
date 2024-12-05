@@ -9,7 +9,7 @@ Embedded Engineering (Firmware & Software) from Vietnam.
 
 **Programming Languages:** C/C++, Python
 
-**Database:** MySQL
+**Database:** Firebase
 
 **Embedded Protocol:** UART, I2C, SPI
 
