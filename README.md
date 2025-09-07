@@ -1,5 +1,5 @@
 # 💫About Me :
-Embedded Engineering (Firmware & Software) from Vietnam.
+Embedded Software Engineering (AUTOSAR) from Vietnam.
 
 
 ## 🌐Socials
@@ -11,7 +11,7 @@ Embedded Engineering (Firmware & Software) from Vietnam.
 
 **Database:** Firebase
 
-**Embedded Protocol:** UART, I2C, SPI
+**Embedded Protocol:** UART, I2C, SPI, LIN, CAN/CANFD, FLEXRAY
 
 **Network Protocol:** HTTP, MQTT, WebSocket
 
